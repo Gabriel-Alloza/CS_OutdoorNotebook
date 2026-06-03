@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Sortie au ski",
+    "date": "1788-07-05T00:00:00",
+    "place": "Annecy",
+    "maxNbAtendees": 50,
+    "currentNbAttendees": 2,
+    "description": "ceci est une description"
+  },
+  {
+    "name": "Sortie au ski du futur",
+    "date": "2788-07-05T00:00:00",
+    "place": "Annecy",
+    "maxNbAtendees": 50,
+    "currentNbAttendees": 2,
+    "description": "ceci est une description"
+  },
+  {
+    "name": "Sortie a la montagne du futur",
+    "date": "2788-07-06T00:00:00",
+    "place": "Annecy",
+    "maxNbAtendees": 50,
+    "currentNbAttendees": 2,
+    "description": null
+  },
+  {
+    "name": "Sortie a la mer",
+    "date": "2018-07-05T00:00:00",
+    "place": "Annecy",
+    "maxNbAtendees": 50,
+    "currentNbAttendees": 50,
+    "description": "ceci est une description"
+  },
+  {
+    "name": "Sortie",
+    "date": "2018-07-05T00:00:00",
+    "place": "Annecy",
+    "maxNbAtendees": 50,
+    "currentNbAttendees": 0,
+    "description": "ceci est une description"
+  }
+]

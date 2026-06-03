@@ -1,0 +1,11 @@
+/home/user/OutdoorNotebook/OutdoorNotebook.Core/bin/Debug/net8.0/OutdoorNotebook.Core.deps.json
+/home/user/OutdoorNotebook/OutdoorNotebook.Core/bin/Debug/net8.0/OutdoorNotebook.Core.dll
+/home/user/OutdoorNotebook/OutdoorNotebook.Core/bin/Debug/net8.0/OutdoorNotebook.Core.pdb
+/home/user/OutdoorNotebook/OutdoorNotebook.Core/obj/Debug/net8.0/OutdoorNotebook.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/OutdoorNotebook/OutdoorNotebook.Core/obj/Debug/net8.0/OutdoorNotebook.Core.AssemblyInfoInputs.cache
+/home/user/OutdoorNotebook/OutdoorNotebook.Core/obj/Debug/net8.0/OutdoorNotebook.Core.AssemblyInfo.cs
+/home/user/OutdoorNotebook/OutdoorNotebook.Core/obj/Debug/net8.0/OutdoorNotebook.Core.csproj.CoreCompileInputs.cache
+/home/user/OutdoorNotebook/OutdoorNotebook.Core/obj/Debug/net8.0/OutdoorNotebook.Core.dll
+/home/user/OutdoorNotebook/OutdoorNotebook.Core/obj/Debug/net8.0/refint/OutdoorNotebook.Core.dll
+/home/user/OutdoorNotebook/OutdoorNotebook.Core/obj/Debug/net8.0/OutdoorNotebook.Core.pdb
+/home/user/OutdoorNotebook/OutdoorNotebook.Core/obj/Debug/net8.0/ref/OutdoorNotebook.Core.dll
