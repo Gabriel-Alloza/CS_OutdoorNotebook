@@ -7,7 +7,9 @@ Xunit
 
 ## Commandes
 Compiler: dotnet build
+
 Lancer les tests: dotnet test
+
 Lancer le projet: dotnet run --project OutdoorNotebook.Console
 
 ## Structure
