@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/user/OutdoorNotebook/OutdoorNotebook.Console/OutdoorNotebook.Console.csproj",
+      "projectUniqueName": "/home/user/OutdoorNotebook/CS_OutdoorNotebook/OutdoorNotebook.Console/OutdoorNotebook.Console.csproj",
       "projectName": "OutdoorNotebook.Console",
-      "projectPath": "/home/user/OutdoorNotebook/OutdoorNotebook.Console/OutdoorNotebook.Console.csproj",
+      "projectPath": "/home/user/OutdoorNotebook/CS_OutdoorNotebook/OutdoorNotebook.Console/OutdoorNotebook.Console.csproj",
       "packagesPath": "/home/user/.nuget/packages/",
-      "outputPath": "/home/user/OutdoorNotebook/OutdoorNotebook.Console/obj/",
+      "outputPath": "/home/user/OutdoorNotebook/CS_OutdoorNotebook/OutdoorNotebook.Console/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/user/.nuget/NuGet/NuGet.Config"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/user/OutdoorNotebook/OutdoorNotebook.Core/OutdoorNotebook.Core.csproj": {
-              "projectPath": "/home/user/OutdoorNotebook/OutdoorNotebook.Core/OutdoorNotebook.Core.csproj"
+            "/home/user/OutdoorNotebook/CS_OutdoorNotebook/OutdoorNotebook.Core/OutdoorNotebook.Core.csproj": {
+              "projectPath": "/home/user/OutdoorNotebook/CS_OutdoorNotebook/OutdoorNotebook.Core/OutdoorNotebook.Core.csproj"
             }
           }
         }

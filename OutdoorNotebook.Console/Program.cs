@@ -21,9 +21,9 @@ class Program
 
         EventStorageService eventStorageService = new EventStorageService();
 
-        eventStorageService.ToJson(events, "/home/user/OutdoorNotebook/data/outings.json");
+        eventStorageService.ToJson(events, "/home/user/OutdoorNotebook/CS_OutdoorNotebook/data/outings.json");
 
-         List<OutdoorEvent> loadedEvents = eventStorageService.FromJson("/home/user/OutdoorNotebook/data/outings.json");
+         List<OutdoorEvent> loadedEvents = eventStorageService.FromJson("/home/user/OutdoorNotebook/CS_OutdoorNotebook/data/outings.json");
 
          EventService eventService = new EventService(loadedEvents);
 

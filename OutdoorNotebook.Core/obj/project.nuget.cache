@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dZGYuW4eAycn4ewwBCkbU70TnpBxRRADljVIGG2ii3gXizc7fk2wdRvwglcD2Q1mow0Yeb8IMQJ7j609psaJMQ==",
+  "dgSpecHash": "HvIlxevfLUtgK4bblmj3j4bNM3eOn9T7U7vwmUbrMCAiQD07w4D/h3TfdKeWvSJypNluNOf4ZPagltK7eR6EYA==",
   "success": true,
-  "projectFilePath": "/home/user/OutdoorNotebook/OutdoorNotebook.Core/OutdoorNotebook.Core.csproj",
+  "projectFilePath": "/home/user/OutdoorNotebook/CS_OutdoorNotebook/OutdoorNotebook.Core/OutdoorNotebook.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
